@@ -17,6 +17,8 @@ deepdancer
 * [Example]({{ site.baseurl }}{% post_url 2017-01-04-deepdancer-example %})
 * [Reference]({{ site.baseurl }}{% post_url 2017-01-02-deepdancer-reference %})
 
+[deepdancer source on GitHub](https://github.com/deepdancer/deepdancer)
+
 
 deepdancer-darkmagic
 ===
@@ -30,6 +32,8 @@ and magic...** Things that you may not like in your project but that we love.
 * [Example]({{ site.baseurl }}{% post_url 2017-01-04-deepdancer-darkmagic-example %})
 * [Reference]({{ site.baseurl }}{% post_url 2017-01-02-deepdancer-darkmagic-reference %})
 
+[deepdancer-darkmagic source on GitHub](https://github.com/deepdancer/deepdancer-darkmagic)
+
 deepdancer-callgraph
 ===
 
@@ -37,3 +41,5 @@ deepdancer-callgraph
 be useful to visualize them.**
 
 * [Example]({{ site.baseurl }}{% post_url 2017-01-12-deepdancer-callgraph-example %})
+
+[deepdancer-callgraph source on GitHub](https://github.com/deepdancer/deepdancer-callgraph)
