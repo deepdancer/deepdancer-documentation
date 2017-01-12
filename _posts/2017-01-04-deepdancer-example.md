@@ -53,8 +53,9 @@ Mostly the service is wrapped in a function that serves as a factory, the
 dependencies are passed are parameters of this function. The `__dependencies`
 informs deepdancer about the dependencies to inject.
 
-If you find this too verbose deependancer-darkmagic is here to solve your
-problem.
+If you find this too verbose
+[deependancer-darkmagic]({{ site.baseurl }}{% post_url 2017-01-06-deepdancer-darkmagic-intentions %})
+is here to solve your problem.
 
 Note that if you leave dependencies, like
 [getLocationFromIp.js](https://github.com/deepdancer/deepdancer-demo/blob/deepdancer/src/deepdancer-demo/service/location/getLocationFromIp.js),
