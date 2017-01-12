@@ -45,7 +45,7 @@ dot -Tsvg callgraph.dot > callgraph.svg
 And here you go:
 
 <div class="callgraph-container">
-    <img class="callgraph" src="/documentation/res/deepdancer-demo-callgraph.svg" alt="deepdancer demo callgraph">
+    <img class="callgraph" src="/deepdancer-documentation/res/deepdancer-demo-callgraph.svg" alt="deepdancer demo callgraph">
 </div>
 
 A clear view of your dependencies and a nice way to identify design problems.
